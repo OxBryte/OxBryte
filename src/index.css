@@ -1,4 +1,7 @@
 body {
+  background: #17202A !important;
+  text-align: center;
+  align-items: center;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

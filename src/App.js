@@ -1,23 +1,40 @@
-import logo from './logo.svg';
+import React, {useState, useEffect} from 'react';
 import './App.css';
+import Header from './components/header';
+import Profile from './components/Profile';
+import Portfolio from './components/portfolio';
+import BarLoader from "react-spinners/BarLoader";
 
 function App() {
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    setLoading(true)
+    setTimeout(() => {
+      setLoading(false)
+    }, 6000)
+  }, [])
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      {
+        loading ? (
+        
+        <div className='loader'>
+          <BarLoader color={"#ffffff"} loading={loading} width={100} height={4} />
+        </div>
+         ) :
+        <>
+        <Header />
+        <Profile />
+        <Portfolio />
+        
+
+        </>
+      }
+
+      
     </div>
   );
 }

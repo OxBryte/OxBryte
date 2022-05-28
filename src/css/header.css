@@ -1,0 +1,22 @@
+/* Header */
+
+.header {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .logo {
+    top: 0;
+    text-align: center;
+    height: 120px;
+    width: 100px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 50px 50px;
+  }
+  
+  .logo img {
+    margin: 20px;
+  }
+  
+  
