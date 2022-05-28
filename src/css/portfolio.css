@@ -49,6 +49,12 @@
     border-radius: 5px;
 }
 
+/* .portfolio-item .item:hover {
+    opacity: 1 !important;
+    transform: translateY(1rem) scale(1.1);
+    box-shadow: rgba(0, 0, 0, 0.2);
+} */
+
 .item h1{
     font-size: 30px;
     font-weight: 700;
@@ -83,13 +89,14 @@
 }
 
 .nav-link {
-    color: #ffffff !important;
+    color: #ffffff85 !important;
     border: none !important;
     font: 20px !important;
     background: none !important;
 }
 
 .nav-link:hover {
+    color: #ffffff !important;
     border: none !important;
     font-weight: 500 !important;
 }
