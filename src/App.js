@@ -4,6 +4,7 @@ import Header from './components/header';
 import Profile from './components/Profile';
 import Portfolio from './components/portfolio';
 import BarLoader from "react-spinners/BarLoader";
+import Footer from './components/footer';
 
 function App() {
   const [loading, setLoading] = useState(false);
@@ -29,6 +30,7 @@ function App() {
         <Header />
         <Profile />
         <Portfolio />
+        <Footer />
         
 
         </>

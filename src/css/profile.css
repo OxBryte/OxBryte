@@ -8,7 +8,7 @@
 
 .profile-text {
   text-align: left;
-  padding: 70px 30px !important;
+  padding: 80px 30px !important;
 }
 
 .profile-text h1 {
@@ -26,6 +26,7 @@
 }
 
 .profile-text h3 {
+  text-align: justify;
   width: 500px;
   margin-bottom: 20px;
   font-weight: 300;
