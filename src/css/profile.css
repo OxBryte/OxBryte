@@ -58,8 +58,11 @@
 
 @media screen and (max-width: 768px) {
   .profile-text h3 {
-    width: 400px;
+    width: 350px;
     font-size: 13px;
+  }
+  .profile-text h2 {
+    font-size: 40px;
   }
   .profile-text {
   padding-top: 50px !important;
