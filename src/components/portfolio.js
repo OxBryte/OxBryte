@@ -5,14 +5,11 @@ import '../css/portfolio.css';
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Twitter } from 'react-bootstrap-icons';
-import { EnvelopeFill } from 'react-bootstrap-icons';
-import { ArrowUpRight } from 'react-bootstrap-icons';
-import { EyeFill } from 'react-bootstrap-icons';
-import { CloudArrowDownFill } from 'react-bootstrap-icons';
+import { Twitter, EnvelopeFill, ArrowUpRight, EyeFill, CloudArrowDownFill } from 'react-bootstrap-icons';
+import { motion } from "framer-motion"
 import pics from "../images/image.svg";
 
-function Portfolio() {
+function Portfolio () {
 
     const [key, setKey] = useState('Portfolio');
 
@@ -24,60 +21,60 @@ function Portfolio() {
                         <Tab eventKey="Portfolio" title="Portfolio" className='col'>
                             <div className='container p-0 col-10'>
                                 <div className='row portfolio-item'>
-                                    <div className='item col-4'>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>Landing page for Job board application</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>
-                                    </div>
-                                    <div className='item col-4'>
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>Landing page for Job board application</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>
-                                    </div>
-                                    <div className='item col-4'>
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>Landing page for Job board application</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>
-                                    </div>
-                                    <div className='item col-4'>
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>Landing page for Job board application</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>
-                                    </div>
-                                    <div className='item col-4'>
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>Landing page for Job board application</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>
-                                    </div>
-                                    <div className='item col-4'>
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>Landing page for Job board application</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>
-                                    </div>
+                                        </div>  
+                                    </motion.div>
                                 </div>
                             </div>
                         </Tab>
