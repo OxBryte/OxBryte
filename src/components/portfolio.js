@@ -24,34 +24,34 @@ function Portfolio () {
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
                                         <h1>DynastyPad</h1>
                                         <h6>REACT + CONTEXT API</h6>
-                                        <h4>Landing page for Job board application</h4>
+                                        <h4>An aggregator that helps near projects to create high quality experience</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
-                                        <h1>DynastyPad</h1>
-                                        <h6>REACT + CONTEXT API</h6>
-                                        <h4>Landing page for Job board application</h4>
+                                        <h1>Woof Solana</h1>
+                                        <h6>REACT + DEX</h6>
+                                        <h4>Solana project built for the blockchain</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
-                                        <h1>DynastyPad</h1>
-                                        <h6>REACT + CONTEXT API</h6>
-                                        <h4>Landing page for Job board application</h4>
+                                        <h1>GreatPan</h1>
+                                        <h6>REACT + MINT FUNCTION</h6>
+                                        <h4>Landing page for nft project and mint page</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
-                                        <h1>DynastyPad</h1>
-                                        <h6>REACT + CONTEXT API</h6>
-                                        <h4>Landing page for Job board application</h4>
+                                        <h1>Sneakers Hub</h1>
+                                        <h6>REACT + MOCK API</h6>
+                                        <h4>Website for a sneakers retail store</h4>
                                         <div className='social'>
                                             <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                                             <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
