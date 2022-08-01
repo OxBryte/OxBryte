@@ -3,7 +3,7 @@ import '../App.css';
 import '../css/profile.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { motion } from "framer-motion"
-import { Github, Twitter, EnvelopeFill, ArrowUpRight} from 'react-bootstrap-icons';
+import { Github, Twitter, At, ArrowUpRight, Linkedin} from 'react-bootstrap-icons';
 import Slider from './slider';
 // import template from '../images/template.jpg';
 
@@ -18,8 +18,9 @@ function Profile() {
                     I create usable wireframes, prototypes, user flows and social media contents to be developed, I also create applications with user experience as a top priority using various web tools and languages.</h3>
                     <div className='social'>
                         <a href='https://github.com/BrightTechnologies1' target='_blank'><span><Github /> Githhub <ArrowUpRight /></span></a>
-                        <a href='https://twitter.com/OlumideSilas' target='_blank'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                        <a href='' target='_blank'><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
+                        <a href='https://twitter.com/_OlumideSilas' target='_blank'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                        <a href='https://www.linkedin.com/in/olumide-silas/' target='_blank'><span><Linkedin /> LinkedIn <ArrowUpRight /></span></a>
+                        <a href='' target='_blank'><span><At /> Email <ArrowUpRight /></span></a>
                     </div>
                 </motion.div>
 

@@ -26,8 +26,8 @@ function Portfolio () {
                                         <h6>REACT + CONTEXT API</h6>
                                         <h4>An aggregator that helps near projects to create high quality experience</h4>
                                         <div className='social'>
-                                            <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
+                                            <a href='https://twitter.com/dynastypad'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -35,8 +35,26 @@ function Portfolio () {
                                         <h6>REACT + DEX</h6>
                                         <h4>Solana project built for the blockchain</h4>
                                         <div className='social'>
-                                            <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
+                                            <a href='https://twitter.com/WoofSolana'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
+                                        <h1>ILearnBlock</h1>
+                                        <h6>UI/UX + Frontend</h6>
+                                        <h4>A blockchain and cryptocurrency education platform</h4>
+                                        <div className='social'>
+                                            <a href='https://twitter.com/ilearnblock'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                        </div>  
+                                    </motion.div>
+                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
+                                        <h1>GenerousLI</h1>
+                                        <h6>REACT + MOCK DATA</h6>
+                                        <h4>A decentralized fundraising platform</h4>
+                                        <div className='social'>
+                                            <a href='https://twitter.com/generousLiHQ'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -44,35 +62,17 @@ function Portfolio () {
                                         <h6>REACT + MINT FUNCTION</h6>
                                         <h4>Landing page for nft project and mint page</h4>
                                         <div className='social'>
-                                            <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
+                                            <a href='https://twitter.com/GreatPanNFT'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
-                                        <h1>Sneakers Hub</h1>
-                                        <h6>REACT + MOCK API</h6>
-                                        <h4>Website for a sneakers retail store</h4>
-                                        <div className='social'>
-                                            <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>  
-                                    </motion.div>
-                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
-                                        <h1>DynastyPad</h1>
+                                        <h1>3Swap Dex</h1>
                                         <h6>REACT + CONTEXT API</h6>
-                                        <h4>Landing page for Job board application</h4>
+                                        <h4>Introducing the First 3-token Powered Crosschain AMM Dex</h4>
                                         <div className='social'>
-                                            <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
-                                        </div>  
-                                    </motion.div>
-                                    <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
-                                        <h1>DynastyPad</h1>
-                                        <h6>REACT + CONTEXT API</h6>
-                                        <h4>Landing page for Job board application</h4>
-                                        <div className='social'>
-                                            <a href=''><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a>
+                                            <a href='https://twitter.com/3swapdex'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
+                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
                                         </div>  
                                     </motion.div>
                                 </div>
