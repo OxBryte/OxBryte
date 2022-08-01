@@ -8,6 +8,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Twitter, EnvelopeFill, ArrowUpRight, EyeFill, CloudArrowDownFill } from 'react-bootstrap-icons';
 import { motion } from "framer-motion"
 import pics from "../images/image.svg";
+import ResumePDF from '../images/OlumideSilas-Resume.pdf'
+
 
 function Portfolio () {
 
@@ -87,7 +89,7 @@ function Portfolio () {
                                 </div>
                                 <div className='social'>
                                     <a href=''><span> Preview <EyeFill /></span></a>
-                                    <a href=''><span> Download <CloudArrowDownFill /></span></a>
+                                    <a href={ResumePDF} download='OlumideSilas.pdf'><span> Download <CloudArrowDownFill /></span></a>
                                 </div>
                             </div>
                         </Tab>

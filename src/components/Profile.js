@@ -20,7 +20,7 @@ function Profile() {
                         <a href='https://github.com/BrightTechnologies1' target='_blank'><span><Github /> Githhub <ArrowUpRight /></span></a>
                         <a href='https://twitter.com/_OlumideSilas' target='_blank'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
                         <a href='https://www.linkedin.com/in/olumide-silas/' target='_blank'><span><Linkedin /> LinkedIn <ArrowUpRight /></span></a>
-                        <a href='' target='_blank'><span><At /> Email <ArrowUpRight /></span></a>
+                        <a href='mailto:silascyrax@gmail.com' target='_blank'><span><At /> Email <ArrowUpRight /></span></a>
                     </div>
                 </motion.div>
 
