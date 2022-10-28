@@ -5,7 +5,8 @@ import '../css/portfolio.css';
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Twitter, EnvelopeFill, ArrowUpRight, EyeFill, CloudArrowDownFill } from 'react-bootstrap-icons';
+import { Twitter, Link, ArrowUpRight, EyeFill, CloudArrowDownFill } from 'react-bootstrap-icons';
+// import { LogoFigma } from 'react-bootstrap-icons'
 import { motion } from "framer-motion"
 import pics from "../images/image.svg";
 import ResumePDF from '../images/OlumideSilas-Resume.pdf'
@@ -29,7 +30,7 @@ function Portfolio () {
                                         <h4>An aggregator that helps near projects to create high quality experience</h4>
                                         <div className='social'>
                                             <a href='https://twitter.com/dynastypad'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                            <a href='https://www.figma.com/file/VwR11wImcgMNth6lmkOL44/DynastyPro' target='_blank' rel="noreferrer"><span><Link /> Figma Link <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -38,7 +39,7 @@ function Portfolio () {
                                         <h4>Solana project built for the blockchain</h4>
                                         <div className='social'>
                                             <a href='https://twitter.com/WoofSolana'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                            <a href='https://www.figma.com/file/JzoPMQp0BsPmFIf28YGDPv/Dex%2FSwap-by-Bright-Tech?node-id=132%3A3496' target='_blank' rel="noreferrer" ><span><Link /> Figma Link <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -47,7 +48,7 @@ function Portfolio () {
                                         <h4>A blockchain and cryptocurrency education platform</h4>
                                         <div className='social'>
                                             <a href='https://twitter.com/ilearnblock'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                            <a href='https://www.figma.com/file/8Zr8X6eDNtOYNdZ5sgXZaG/ILB-Desktop?node-id=0%3A1' target='_blank' rel="noreferrer" ><span><Link /> Figma Link <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -56,7 +57,7 @@ function Portfolio () {
                                         <h4>A decentralized fundraising platform</h4>
                                         <div className='social'>
                                             <a href='https://twitter.com/generousLiHQ'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                            <a href='https://www.figma.com/file/wd2pXzeUD8uU8KfzdTxMUf/Generousli?node-id=0%3A1' target='_blank' rel="noreferrer"><span><Link /> Figma Link <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -65,7 +66,7 @@ function Portfolio () {
                                         <h4>Landing page for nft project and mint page</h4>
                                         <div className='social'>
                                             <a href='https://twitter.com/GreatPanNFT'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                            {/* <a href=''><span><Link /> Figma Link <ArrowUpRight /></span></a> */}
                                         </div>  
                                     </motion.div>
                                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} className='item col-4'>
@@ -74,7 +75,7 @@ function Portfolio () {
                                         <h4>Introducing the First 3-token Powered Crosschain AMM Dex</h4>
                                         <div className='social'>
                                             <a href='https://twitter.com/3swapdex'><span><Twitter /> Twitter <ArrowUpRight /></span></a>
-                                            {/* <a href=''><span><EnvelopeFill /> Email <ArrowUpRight /></span></a> */}
+                                            <a href='https://www.figma.com/file/MFvouPleEf4msVjCM6X9Zt/3Swap-UI?node-id=0%3A1' target='_blank' rel="noreferrer"><span><Link /> Figma Link <ArrowUpRight /></span></a>
                                         </div>  
                                     </motion.div>
                                 </div>
