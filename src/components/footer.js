@@ -7,7 +7,7 @@ function Footer() {
     return (
         <div className='container col-12'>
             <div className='footer row'>
-                <span>copyright 2022.</span>
+                <span>copyright 2025.</span>
             </div>
         </div>
     );
