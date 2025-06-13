@@ -102,7 +102,7 @@ function Portfolio() {
                     <h6>REACTJS</h6>
                     <h4>A web3 job board/platform</h4>
                     <div className="social">
-                      <a href="https://twitter.com/rethinkable">
+                      <a href="https://twitter.com/rethinkablexyz">
                         <span>
                           <Twitter /> Twitter <ArrowUpRight />
                         </span>
