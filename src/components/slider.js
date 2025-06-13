@@ -4,8 +4,8 @@ import '../css/profile.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel'
 import Slider1 from '../images/slider1.png'
-import Slider2 from '../images/slider2.png'
-import Slider3 from '../images/slider3.png'
+import Slider2 from '../images/slider2.jpeg'
+import Slider3 from '../images/slider3.jpeg'
 
 function Slider() {
     return (
