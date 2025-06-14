@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hi, I’m Olumide Silas
+---
 
-<!--
-**OxBryte/OxBryte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Skills and Tech Stack
+- **Blockchain Development:** Solidity, Hardhat
+- **Frontend Skills:** Next.js, TypeScript, ReactJS, React Vite, Chakra UI, Tailwindcss
+- **Backend Skills:** Node Js, Express, SQL
+- **Developer Tools:** Thirdweb, Farcaster, web3.js, Ethers, WalletConnect, AppKit, Coinbase Developer Platform.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### GitHub Trophy
+   ![Trophies](https://github-profile-trophy.vercel.app/?username=OxBryte&theme=nord_dark)
+
+![](https://komarev.com/ghpvc/?username=OxBryte&color=green) <br />
+
+## 📊 More Stats
+   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OxBryte&theme=default)
+
+### Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxBryte&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/OxBryte)
+
+### Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxBryte)](https://git.io/streak-stats)
+
+---
+
+## 📜 Contributions
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OxBryte&theme=dracula)](https://github.com/OxBryte)
