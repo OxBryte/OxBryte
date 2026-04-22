@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Olumide Silas
+# 👋 Hi
 ---
 
 ## 🌟 Skills and Tech Stack
