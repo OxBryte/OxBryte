@@ -6,6 +6,7 @@
 - **Frontend Skills:** Next.js, TypeScript, ReactJS, React Vite, Chakra UI, Tailwindcss
 - **Backend Skills:** Node Js, Express, SQL
 - **Developer Tools:** Thirdweb, Farcaster, web3.js, Ethers, WalletConnect, AppKit, Coinbase Developer Platform.
+- **DevOps:** Kubernetes, AWS, Google Cloud (GCP), Github Actions, Grafana, Datadog.
 
 ---
 
