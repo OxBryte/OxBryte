@@ -22,7 +22,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxBryte&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/OxBryte)
 
 ### Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OxBryte)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oxbryte&theme=dark&hide_border=true&border_radius=12&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
